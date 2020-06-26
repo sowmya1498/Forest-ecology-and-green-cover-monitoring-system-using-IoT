@@ -20,6 +20,10 @@ Connected devices are-
 •	ESP8266
 
 Necessary Libraries-
+Adafruit Circuit Playground
+MCCI Arduino LoRaWAN library
+TheThingsNetwork
+LMIC-Arduino
 
 Working of the module-
 
